@@ -1,7 +1,10 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import './blog.css';
 
 function Blog() {
+  const navigate = useNavigate();
+
   const posts = [
     {
       title: 'Top 10 Sneakers for 2025',
@@ -22,6 +25,10 @@ function Blog() {
 
   return (
     <div className="blog-page">
+       <button className="back-btn" onClick={() => navigate('/home')}>
+        ⬅ Back to Home
+      </button>
+
       <h1>📝 Blog</h1>
       <div className="blog-posts">
         {posts.map((post, i) => (
