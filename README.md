@@ -5,29 +5,29 @@ This project includes features like product browsing, user authentication, cart 
 
 🌐 Live Demo
 
-🔗 View Ecommerce Application
+    🔗 View Ecommerce Application
 
 🛠️ Tech Stack
 
-Frontend: React, JavaScript, CSS
-Backend: Node.js, Express.js, MongoDB (optional if you add API)
-Deployment: GitHub Pages / Render
+     Frontend: React, JavaScript, CSS
+     Backend: Node.js, Express.js, MongoDB (optional if you add API)
+    Deployment: GitHub Pages / Render
 
 📁 Features
 
-🛍️ Browse and Search Products
+    🛍️ Browse and Search Products
 
-🛒 Add to Cart and Buy Now Options
+    🛒 Add to Cart and Buy Now Options
 
-🔐 User Login & Register Pages
+    🔐 User Login & Register Pages
 
-📰 Blog Page for Sneaker Trends & Guides
+    📰 Blog Page for Sneaker Trends & Guides
+ 
+    🎯 Track Orders with Order ID
 
-🎯 Track Orders with Order ID
+    ⚙️ Settings & User Preferences
 
-⚙️ Settings & User Preferences
-
-💥 Best Offers Section for Discounts
+    💥 Best Offers Section for Discounts
 
 📱 Fully Responsive UI
 
