@@ -1,0 +1,43 @@
+.blog-page {
+  padding: 40px;
+  margin-left: 280px;
+}
+
+.blog-page h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.blog-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.blog-card {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  background: #f9f9f9;
+  transition: 0.3s ease;
+}
+
+.blog-card:hover {
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.blog-card h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.blog-card p {
+  font-size: 16px;
+  color: #333;
+}
+
+.blog-card span {
+  font-size: 14px;
+  color: gray;
+}

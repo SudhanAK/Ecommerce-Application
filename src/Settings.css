@@ -1,0 +1,51 @@
+.settings-page {
+  margin-left: 280px;
+  padding: 40px;
+}
+
+.settings-page h1 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.settings-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.settings-form label {
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.settings-form input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.settings-form button {
+  margin-top: 20px;
+  padding: 12px;
+  font-size: 16px;
+  background-color: #3f83f8;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.settings-form button:hover {
+  background-color: #2563eb;
+}
+
+.success-msg {
+  margin-top: 15px;
+  color: green;
+  font-weight: 500;
+}
