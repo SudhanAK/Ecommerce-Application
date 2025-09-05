@@ -11,7 +11,7 @@ This project includes features like product browsing, user authentication, cart 
 
      Frontend: React, JavaScript, CSS
      Backend: Node.js, Express.js, MongoDB (optional if you add API)
-    Deployment: GitHub Pages / Render
+     Deployment: GitHub Pages / Render
 
 📁 Features
 
@@ -29,7 +29,7 @@ This project includes features like product browsing, user authentication, cart 
 
     💥 Best Offers Section for Discounts
 
-📱 Fully Responsive UI
+    📱 Fully Responsive UI
 
 📄 Screenshots:
 
