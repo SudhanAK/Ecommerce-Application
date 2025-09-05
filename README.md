@@ -5,7 +5,7 @@ This project includes features like product browsing, user authentication, cart 
 
 🌐 Live Demo
 
-    🔗 View Ecommerce Application
+    🔗 [View Ecommerce Application](https://sudhanak.github.io/Ecommerce-Application/#/)
 
 🛠️ Tech Stack
 
